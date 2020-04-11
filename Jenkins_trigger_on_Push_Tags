@@ -1,0 +1,7 @@
+Build Projects on Tag Push.
+
+Refspec :- +refs/tags/v*:refs/remotes/origin/tags/v*
+
+Branch Specifier :- **/tags/v*
+
+Poll SCM :- * * * * *
